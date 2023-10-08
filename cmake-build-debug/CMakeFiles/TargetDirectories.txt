@@ -1,0 +1,3 @@
+/Users/trcmkr/Documents/GitHub/cs211-extra-task-1/cmake-build-debug/CMakeFiles/Task8.dir
+/Users/trcmkr/Documents/GitHub/cs211-extra-task-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trcmkr/Documents/GitHub/cs211-extra-task-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
