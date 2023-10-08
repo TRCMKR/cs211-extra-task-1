@@ -5,6 +5,7 @@
 #include <vector>
 #include <array>
 #include <cmath>
+#include <cassert>
 
 using std::cin;
 using std::cout;
