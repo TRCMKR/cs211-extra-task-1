@@ -6,6 +6,7 @@
 #include <array>
 #include <cmath>
 #include <cassert>
+#include <cfloat>
 
 using std::cin;
 using std::cout;
